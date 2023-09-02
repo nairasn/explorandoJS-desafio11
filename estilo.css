@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;      
+    color: #5D3063;
+    background-image: url(img/v1014-bg-002a.jpg);
+    background-size:cover;
+    background-repeat: repeat;    
+    /* width: 100%; */
+}
+
+header{
+    text-align: center;
+    padding-top: 330px;
+}
+
+h1{
+    color: #DDB0E3;
+}
+
+h2{
+    color: #FFBAD4; 
+}
+
+h3{
+    color: #DEB896;
+}
+
+li{
+    list-style-type: none;
+}
